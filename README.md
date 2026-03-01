@@ -55,12 +55,47 @@
 
 ## 🚀 Мои проекты
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [🏗️ pyStroika](https://github.com/q1nn2/pyStroika) | Браузерная образовательная игра: управляй краном через Python-код прямо в браузере. Изометрическая 3D-сцена, 7 уровней, система прогресса | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-| [🤖 selenium-demo](https://github.com/q1nn2/selenium-demo) | UI автотест: Selenium + pytest + Page Object Model + Allure Report | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) |
-| [📧 gmail-selenium-tests](https://github.com/q1nn2/gmail-selenium-tests) | Базовый автотест Selenium + Python для Gmail | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) |
-| [📡 api-tests-demo](https://github.com/q1nn2/api-tests-demo) | Демо API-тестирования с pytest и requests | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) |
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/q1nn2/pyStroika">🏗️ pyStroika</a></h3>
+      <p>Браузерная образовательная игра: управляй краном через Python-код прямо в браузере. Изометрическая 3D-сцена, 7 уровней, система прогресса</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      </p>
+      <a href="https://q1nn2.github.io/pyStroika">🌐 Demo</a>
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/q1nn2/selenium-demo">🤖 selenium-demo</a></h3>
+      <p>UI автотест: Selenium + pytest + Page Object Model + Allure Report + GitHub Actions CI/CD</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/q1nn2/gmail-selenium-tests">📧 gmail-selenium-tests</a></h3>
+      <p>Автотест Selenium + Python: вход в Gmail, работа с письмами через WebDriver</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/q1nn2/api-tests-demo">📡 api-tests-demo</a></h3>
+      <p>Демо API-тестирования: pytest + requests, проверка REST API, GitHub Actions CI</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -69,24 +104,6 @@
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=q1nn2&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ⏱️ Статистика кода (WakaTime)
-
-<div align="center">
-
-<!--
-  Чтобы активировать этот блок:
-  1. Зарегистрируйтесь на https://wakatime.com
-  2. Установите плагин WakaTime в VS Code / PyCharm
-  3. Замените YOUR_WAKATIME_USERNAME на ваш логин WakaTime
-  4. Раскомментируйте строку ниже
--->
-
-<!-- [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact)](https://wakatime.com/@YOUR_WAKATIME_USERNAME) -->
 
 </div>
 
