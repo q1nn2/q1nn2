@@ -58,7 +58,7 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center">
       <h3><a href="https://github.com/q1nn2/pyStroika">🏗️ pyStroika</a></h3>
       <p>Браузерная образовательная игра: управляй краном через Python-код прямо в браузере. Изометрическая 3D-сцена, 7 уровней, система прогресса</p>
       <p>
@@ -67,43 +67,6 @@
       </p>
       <a href="https://q1nn2.github.io/pyStroika">🌐 Demo</a>
     </td>
-    <td align="center" width="50%">
-      <h3><a href="https://github.com/q1nn2/selenium-demo">🤖 selenium-demo</a></h3>
-      <p>UI автотест: Selenium + pytest + Page Object Model + Allure Report + GitHub Actions CI/CD</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3><a href="https://github.com/q1nn2/gmail-selenium-tests">📧 gmail-selenium-tests</a></h3>
-      <p>Автотест Selenium + Python: вход в Gmail, работа с письмами через WebDriver</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3><a href="https://github.com/q1nn2/api-tests-demo">📡 api-tests-demo</a></h3>
-      <p>Демо API-тестирования: pytest + requests, проверка REST API, GitHub Actions CI</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3><a href="https://github.com/q1nn2/gmail-send-email">✉️ gmail-send-email</a></h3>
-      <p>Автотест отправки письма через Gmail: авторизация, создание и отправка письма средствами Selenium + pytest</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-      </p>
-    </td>
-    <td align="center" width="50%"></td>
   </tr>
 </table>
 </div>
