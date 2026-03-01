@@ -94,6 +94,17 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/q1nn2/gmail-send-email">✉️ gmail-send-email</a></h3>
+      <p>Автотест отправки письма через Gmail: авторизация, создание и отправка письма средствами Selenium + pytest</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+      </p>
+    </td>
+    <td align="center" width="50%"></td>
+  </tr>
 </table>
 </div>
 
