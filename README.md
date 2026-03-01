@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет, меня зовут Анатолий 👋
+# Anatoly Elnikov — QA Engineer &nbsp; ✅ status: PASSED
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Manual+%26+Automation;Python+%7C+Selenium+%7C+Playwright+%7C+pytest;API+Testing+%7C+Allure+%7C+GitHub+Actions;Jira+%7C+TestRail+%7C+Charles+Proxy+%7C+SQL)](https://git.io/typing-svg)
 
