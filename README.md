@@ -123,9 +123,8 @@
 
 ## 📬 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![HH.ru](https://img.shields.io/badge/HH.ru-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/YOUR_RESUME_ID)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anatoly_el)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anatolyelnikov@gmail.com)
 
 ---
 
