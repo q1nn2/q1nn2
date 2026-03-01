@@ -55,31 +55,12 @@
 
 ## 🚀 Мои проекты
 
-<div align="center">
-
-<a href="https://github.com/q1nn2/pyStroika">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=q1nn2&repo=pyStroika&theme=tokyonight&show_owner=false" />
-</a>
-<a href="https://github.com/q1nn2/selenium-demo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=q1nn2&repo=selenium-demo&theme=tokyonight" />
-</a>
-<a href="https://github.com/q1nn2/gmail-selenium-tests">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=q1nn2&repo=gmail-selenium-tests&theme=tokyonight" />
-</a>
-<a href="https://github.com/q1nn2/api-tests-demo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=q1nn2&repo=api-tests-demo&theme=tokyonight" />
-</a>
-
-</div>
-
-### 🏗️ pyStroika — Python Learning Game
-
-[🚀 Deploy](https://q1nn2.github.io/pyStroika) · [📖 Demo](https://q1nn2.github.io/pyStroika)
-
-> Браузерная образовательная игра: управляй строительным краном, написав код на Python прямо в браузере
-
-- **Стек:** Vanilla JS, HTML5 Canvas, кастомный Python-интерпретатор на JS
-- **Особенности:** изометрическая 3D-сцена, 7 уровней, система прогресса
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [🏗️ pyStroika](https://github.com/q1nn2/pyStroika) | Браузерная образовательная игра: управляй краном через Python-код прямо в браузере. Изометрическая 3D-сцена, 7 уровней, система прогресса | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| [🤖 selenium-demo](https://github.com/q1nn2/selenium-demo) | UI автотест: Selenium + pytest + Page Object Model + Allure Report | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) |
+| [📧 gmail-selenium-tests](https://github.com/q1nn2/gmail-selenium-tests) | Базовый автотест Selenium + Python для Gmail | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) |
+| [📡 api-tests-demo](https://github.com/q1nn2/api-tests-demo) | Демо API-тестирования с pytest и requests | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) |
 
 ---
 
