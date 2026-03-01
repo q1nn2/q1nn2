@@ -2,7 +2,7 @@
 
 # Привет, меня зовут Анатолий 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer+(AQA);Python+%7C+Selenium+%7C+Playwright+%7C+pytest;API+Testing+%7C+Allure+%7C+GitHub+Actions;Ищу+первую+работу+в+автоматизации+QA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Manual+%26+Automation;Python+%7C+Selenium+%7C+Playwright+%7C+pytest;API+Testing+%7C+Allure+%7C+GitHub+Actions;Jira+%7C+TestRail+%7C+Charles+Proxy+%7C+SQL)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,11 +10,12 @@
 
 ## 🙋 Обо мне
 
-- 🎯 Хочу стать **QA Automation Engineer** — автоматизирую тесты на Python
-- 🐍 Пишу на Python, знаком с Selenium WebDriver, Playwright и pytest
-- 🧪 Изучаю весь AQA-стек: Page Object Model, Allure Report, CI/CD
-- 🏗️ Разработал браузерную **образовательную игру** для изучения Python ([Стройка](https://q1nn2.github.io/pyStroika/)) — кран управляется кодом на Python прямо в браузере
-- 📚 Постоянно учусь: прохожу курсы по автоматизации тестирования, читаю документацию, практикуюсь на open-source проектах
+- 🧪 **QA Engineer** с опытом в ручном и автоматизированном тестировании веб-приложений
+- 🤖 Пишу автотесты на Python: Selenium WebDriver, Playwright, pytest, Page Object Model
+- 📡 Провожу API-тестирование через Postman и requests; анализирую трафик в Charles Proxy
+- 📋 Составляю тест-кейсы, тест-планы и баг-репорты; веду задачи в Jira и TestRail
+- 🗄️ Работаю с SQL — проверяю данные напрямую в БД; использую DevTools для анализа сетевых запросов
+- 🏗️ Разработал браузерный инструмент на Python/JS ([Стройка](https://q1nn2.github.io/pyStroika/)) — визуализация алгоритмов управления через выполнение кода прямо в браузере
 - 📍 Москва / Удалённо
 
 ---
@@ -47,6 +48,13 @@
 ### Методологии и паттерны
 ![Page Object Model](https://img.shields.io/badge/Page_Object_Model-grey?style=for-the-badge)
 ![BDD](https://img.shields.io/badge/BDD-purple?style=for-the-badge)
+
+### Ручное тестирование
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-F5A623?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ---
 
@@ -112,6 +120,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=q1nn2&color=F97316&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ)
 
-*Открыт к предложениям Junior / Trainee AQA Engineer — удалённо или в Москве*
+*QA Engineer — Manual & Automation | Открыт к новым проектам*
 
 </div>
