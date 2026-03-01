@@ -1,8 +1,8 @@
-<div align="center">
-
 # Anatoly Elnikov — QA Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Manual+%26+Automation;Python+%7C+Selenium+%7C+Playwright+%7C+pytest;API+Testing+%7C+Allure+%7C+GitHub+Actions;Jira+%7C+TestRail+%7C+Charles+Proxy+%7C+SQL)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=QA+Automation+Engineer;Python+%7C+Selenium+%7C+Playwright;API+Testing+%7C+pytest+%7C+Allure)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 - 📡 Провожу API-тестирование через Postman и requests; анализирую трафик в Charles Proxy
 - 📋 Составляю тест-кейсы, тест-планы и баг-репорты; веду задачи в Jira и TestRail
 - 🗄️ Работаю с SQL — проверяю данные напрямую в БД; использую DevTools для анализа сетевых запросов
-- 🏗️ Разработал браузерный инструмент на Python/JS ([Стройка](https://q1nn2.github.io/pyStroika/)) — визуализация алгоритмов управления через выполнение кода прямо в браузере
+- 🏗️ Разработал браузерный инструмент на Python/JS (Стройка) — визуализация алгоритмов управления через выполнение кода прямо в браузере
 - 📍 Москва / Удалённо
 
 ---
@@ -33,10 +33,10 @@
 
 ### API тестирование
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-2C5F8A?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Репортинг и CI/CD
-![Allure](https://img.shields.io/badge/Allure_Report-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)
+![Allure](https://img.shields.io/badge/Allure-FF5733?style=for-the-badge&logo=allure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Инструменты
@@ -45,25 +45,36 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-### Методологии и паттерны
-![Page Object Model](https://img.shields.io/badge/Page_Object_Model-grey?style=for-the-badge)
-![BDD](https://img.shields.io/badge/BDD-purple?style=for-the-badge)
-
 ### Ручное тестирование
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white)
-![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-F5A623?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Charles](https://img.shields.io/badge/Charles_Proxy-F5A623?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 🚀 Мои проекты
 
-### 🏗️ [pyStroika — Python Learning Game](https://github.com/q1nn2/pyStroika)
+<div align="center">
 
-[![Deploy](https://github.com/q1nn2/pyStroika/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/q1nn2/pyStroika/actions/workflows/pages/pages-build-deployment)
-&nbsp;[![Demo](https://img.shields.io/badge/Live_Demo-q1nn2.github.io%2FpyStroika-F97316?style=flat-square&logo=github)](https://q1nn2.github.io/pyStroika/)
+<a href="https://github.com/q1nn2/pyStroika">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=q1nn2&repo=pyStroika&theme=tokyonight&show_owner=false" />
+</a>
+<a href="https://github.com/q1nn2/selenium-demo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=q1nn2&repo=selenium-demo&theme=tokyonight" />
+</a>
+<a href="https://github.com/q1nn2/gmail-selenium-tests">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=q1nn2&repo=gmail-selenium-tests&theme=tokyonight" />
+</a>
+<a href="https://github.com/q1nn2/api-tests-demo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=q1nn2&repo=api-tests-demo&theme=tokyonight" />
+</a>
+
+</div>
+
+### 🏗️ pyStroika — Python Learning Game
+
+[🚀 Deploy](https://q1nn2.github.io/pyStroika) · [📖 Demo](https://q1nn2.github.io/pyStroika)
 
 > Браузерная образовательная игра: управляй строительным краном, написав код на Python прямо в браузере
 
@@ -72,19 +83,41 @@
 
 ---
 
+## 📈 График активности
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=q1nn2&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## ⏱️ Статистика кода (WakaTime)
+
+<div align="center">
+
+<!--
+  Чтобы активировать этот блок:
+  1. Зарегистрируйтесь на https://wakatime.com
+  2. Установите плагин WakaTime в VS Code / PyCharm
+  3. Замените YOUR_WAKATIME_USERNAME на ваш логин WakaTime
+  4. Раскомментируйте строку ниже
+-->
+
+<!-- [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact)](https://wakatime.com/@YOUR_WAKATIME_USERNAME) -->
+
+</div>
+
+---
+
 ## 📊 Статистика GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=q1nn2&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=q1nn2&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com/?user=q1nn2)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q1nn2&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=F97316"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=q1nn2&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q1nn2&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -92,19 +125,15 @@
 
 ## 📬 Контакты
 
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/q1nn2)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anatolyelnikov@gmail.com)
-[![HH.ru](https://img.shields.io/badge/HH.ru-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/applicant/resumes)
-
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![HH.ru](https://img.shields.io/badge/HH.ru-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/YOUR_RESUME_ID)
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=q1nn2&color=F97316&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ)
+![Profile Views](https://komarev.com/ghpvc/?username=q1nn2&color=00B4D8&style=flat-square)
 
 *QA Engineer — Manual & Automation | Открыт к новым проектам*
 
