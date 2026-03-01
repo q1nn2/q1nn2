@@ -1,6 +1,6 @@
 <div align="center">
 
-# Anatoly Elnikov — QA Engineer &nbsp; ✅ status: PASSED
+# Anatoly Elnikov — QA Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Manual+%26+Automation;Python+%7C+Selenium+%7C+Playwright+%7C+pytest;API+Testing+%7C+Allure+%7C+GitHub+Actions;Jira+%7C+TestRail+%7C+Charles+Proxy+%7C+SQL)](https://git.io/typing-svg)
 
@@ -61,28 +61,14 @@
 ## 🚀 Мои проекты
 
 ### 🏗️ [pyStroika — Python Learning Game](https://github.com/q1nn2/pyStroika)
+
+[![Deploy](https://github.com/q1nn2/pyStroika/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/q1nn2/pyStroika/actions/workflows/pages/pages-build-deployment)
+&nbsp;[![Demo](https://img.shields.io/badge/Live_Demo-q1nn2.github.io%2FpyStroika-F97316?style=flat-square&logo=github)](https://q1nn2.github.io/pyStroika/)
+
 > Браузерная образовательная игра: управляй строительным краном, написав код на Python прямо в браузере
 
 - **Стек:** Vanilla JS, HTML5 Canvas, кастомный Python-интерпретатор на JS
 - **Особенности:** изометрическая 3D-сцена, 7 уровней, система прогресса
-- **Демо:** [q1nn2.github.io/pyStroika](https://q1nn2.github.io/pyStroika/)
-
----
-
-### 🧪 [selenium-demo](https://github.com/q1nn2/selenium-demo) *(в разработке)*
-> Демо-проект: UI-автотесты с Selenium + pytest + Page Object Model
-
-- **Стек:** Python, Selenium WebDriver, pytest, Allure Report
-- **Паттерн:** Page Object Model (POM)
-- **CI:** GitHub Actions
-
----
-
-### 📡 [api-tests-demo](https://github.com/q1nn2/api-tests-demo) *(в разработке)*
-> Автотесты REST API: requests + pytest + Allure
-
-- **Стек:** Python, requests, pytest, Allure Report
-- **Покрытие:** CRUD операции, авторизация, негативные кейсы
 
 ---
 
