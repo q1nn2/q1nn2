@@ -15,7 +15,6 @@
 - 📡 Провожу API-тестирование через Postman и requests; анализирую трафик в Charles Proxy
 - 📋 Составляю тест-кейсы, тест-планы и баг-репорты; веду задачи в Jira и TestRail
 - 🗄️ Работаю с SQL — проверяю данные напрямую в БД; использую DevTools для анализа сетевых запросов
-- 🏗️ Разработал браузерный инструмент на Python/JS (Стройка) — визуализация алгоритмов управления через выполнение кода прямо в браузере
 - 📍 Москва / Удалённо
 
 ---
@@ -59,15 +58,6 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3><a href="https://github.com/q1nn2/pyStroika">🏗️ pyStroika</a></h3>
-      <p>Браузерная образовательная игра: управляй краном через Python-код прямо в браузере. Изометрическая 3D-сцена, 7 уровней, система прогресса</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      </p>
-      <a href="https://q1nn2.github.io/pyStroika">🌐 Demo</a>
-    </td>
-    <td align="center" width="50%">
       <h3><a href="https://github.com/q1nn2/Sprint_1_yandex_mesto">📋 Sprint 1 — Mesto</a></h3>
       <p>Ручное тестирование веб-сервиса: регрессионный прогон, баг-репорты с приоритетами, ретест. 17 тест-кейсов, 15 дефектов (10 закрыто, 5 переоткрыто)</p>
       <p>
@@ -75,8 +65,6 @@
         <img src="https://img.shields.io/badge/Bug_Reports-red?style=for-the-badge&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <h3><a href="https://github.com/q1nn2/ai_qahelper">🤖 AI QAHelper</a></h3>
       <p>Локальный CLI и chat mode для QA: анализ требований и сайтов, генерация test cases/checklists, quality gate, deduplication и экспорт в XLSX/CSV/JSON.</p>
@@ -86,6 +74,8 @@
         <img src="https://img.shields.io/badge/CLI-333333?style=for-the-badge&logo=gnubash&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <h3><a href="https://github.com/q1nn2/Sprint_4_mobile_Yandex_metro">🚇 Sprint 4 — Yandex Metro</a></h3>
       <p>Ручное тестирование мобильного приложения Яндекс Метро 3.6: функциональный и регрессионный прогоны, 71 проверка, 14 баг-репортов и release-рекомендация.</p>
@@ -95,6 +85,7 @@
         <img src="https://img.shields.io/badge/Bug_Reports-red?style=for-the-badge&logoColor=white" />
       </p>
     </td>
+    <td align="center" width="50%"></td>
   </tr>
 </table>
 </div>
