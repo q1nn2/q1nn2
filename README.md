@@ -76,6 +76,26 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/q1nn2/ai_qahelper">🤖 AI QAHelper</a></h3>
+      <p>Локальный CLI и chat mode для QA: анализ требований и сайтов, генерация test cases/checklists, quality gate, deduplication и экспорт в XLSX/CSV/JSON.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_QA-00B4D8?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/CLI-333333?style=for-the-badge&logo=gnubash&logoColor=white" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/q1nn2/Sprint_4_mobile_Yandex_metro">🚇 Sprint 4 — Yandex Metro</a></h3>
+      <p>Ручное тестирование мобильного приложения Яндекс Метро 3.6: функциональный и регрессионный прогоны, 71 проверка, 14 баг-репортов и release-рекомендация.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Mobile_QA-gray?style=for-the-badge&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Checklist-2EAD33?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bug_Reports-red?style=for-the-badge&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
 </div>
 
